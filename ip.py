@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import os
 import boto.route53 as aws
 import json
